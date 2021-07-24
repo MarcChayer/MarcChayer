@@ -6,7 +6,7 @@ A passionnate UI Developer from France with a graphic designer background.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayer-marc/)
 
 - 📌 My latest project is the creation of a website for the [Mimado Hotel](https://www.mimadohotel.com/). 
-- 🌱 I’m currently learning TypeScript & NextJS.
+- 🌱 I’m currently learning tailwindCss.
 - 👯 I’m looking to collaborate on ReactJS projects.
 - 📫 How to reach me: marc.chayer@icloud.com
 
