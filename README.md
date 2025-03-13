@@ -21,4 +21,4 @@ A passionnate UI Developer from France with a graphic designer background.
 ![Indesign](https://img.shields.io/badge/-Indesign-FF3366?style=flat-square&logo=adobe-indesign&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=black)
-![Figma](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-FFF?style=flat-square&logo=figma&logoColor=black)
