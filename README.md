@@ -5,11 +5,6 @@ A passionnate UI Developer from France with a graphic designer background.
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0d0d0d)](https://marc-chayer.netlify.app)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayer-marc/)
 
-- 📌 My latest project is the creation of a website for the [Mimado Hotel](https://www.mimadohotel.com/). 
-- 🌱 I’m currently learning tailwindCss.
-- 👯 I’m looking to collaborate on ReactJS projects.
-- 📫 How to reach me: marc.chayer@icloud.com
-
 ## ⚡ Technologies
 
 ### Web
@@ -26,3 +21,4 @@ A passionnate UI Developer from France with a graphic designer background.
 ![Indesign](https://img.shields.io/badge/-Indesign-FF3366?style=flat-square&logo=adobe-indesign&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=black)
+![Figma](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=black)
